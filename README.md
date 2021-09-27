@@ -14,10 +14,10 @@
   <img align="center" alt="Wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
 </div>
 
-<div align="center"><br><br>
+<div style="display: inline_block" align="center"><br><br>
   <a href="https://github.com/carolinavsqs">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=carolinavsqs&show_icons=false&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinavsqs&layout=compact&langs_count=7&theme=default"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinavsqs&show_icons=false&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinavsqs&layout=compact&langs_count=7&theme=default"/>
 </div>
 
 <div align="center"><br>

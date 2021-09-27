@@ -18,6 +18,7 @@
   <a href="https://github.com/carolinavsqs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinavsqs&show_icons=false&theme=default&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinavsqs&layout=compact&langs_count=7&theme=default"/>
+  </a>
 </div>
 
 <div align="center"><br>

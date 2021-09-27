@@ -2,7 +2,7 @@
 
 <p align="center"><br>Ingressei na Universidade Federal de Itajubá em 2015, e estou finalizando minha graduação em Sistemas de Informação. Trabalho com design gráfico e web design, e atualmente estou buscando aprender mais sobre experiência do usuário e desenvolvimento front-end.</center>
 
-<div style="display: inline_block" align="center">
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Adobe Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
   <img align="center" alt="Adobe XD" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-line.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
@@ -14,7 +14,7 @@
   <img align="center" alt="Wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
 </div>
 
-<div align="center"><br>
+<div align="center"><br><br>
   <a href="https://github.com/carolinavsqs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinavsqs&show_icons=false&theme=default&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinavsqs&layout=compact&langs_count=7&theme=default"/>

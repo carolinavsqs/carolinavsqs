@@ -15,6 +15,12 @@
 </div>
 
 <div style="display: inline_block" align="center"><br><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinavsqs&show_icons=false&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinavsqs&layout=compact&langs_count=7&theme=default"/
+</div>
+    
+<!-- display as table
+<div style="display: inline_block" align="center"><br><br>
   <table>
     <row>
       <td>
@@ -25,7 +31,7 @@
       </td>
     <row>
   </table>
-</div>
+</div>-->
 
 <div align="center"><br>
   <a href="https://www.linkedin.com/in/carolinavsqs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>

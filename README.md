@@ -1,6 +1,4 @@
-<h2 align="center"> ✨ Oi, eu sou a Carol!</h2>
-
-<p align="center"><br>Ingressei na Universidade Federal de Itajubá em 2015, e estou finalizando minha graduação em Sistemas de Informação. Trabalho com web design e design gráfico desde 2017, e atualmente estou estudando experiência do usuário e desenvolvimento front-end.</center>
+<h2 align="center">Oi, eu sou a Carol, designer e desenvolvedora front-end ✨</h2>
 
 <div align="center"><br>
   <img align="center" title="Adobe Photoshop" alt="Adobe Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">

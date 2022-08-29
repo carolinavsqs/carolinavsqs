@@ -1,4 +1,4 @@
-<h2 align="center">Oi, eu sou a Carol, designer e desenvolvedora front-end ✨</h2>
+<h2 align="center">Oi, eu sou a Carol! Trabalho com design e desenvolvimento front-end ✨</h2>
 
 <div align="center"><br>
   <img align="center" title="Adobe Photoshop" alt="Adobe Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">

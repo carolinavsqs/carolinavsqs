@@ -7,7 +7,6 @@
   <img align="center" title="HTML" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="CSS" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" title="Javascript" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" title="Bootstrap" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" title="Wordpress" alt="Wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
 </div>
 
@@ -23,17 +22,10 @@
       <td>
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinavsqs&show_icons=false&theme=default&include_all_commits=true&count_private=true"/>
       </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinavsqs&layout=compact&langs_count=7&theme=default"/>
-      </td>
     <row>
   </table>
 </div>-->
 
 <div align="center"><br>
-  <a href="https://www.linkedin.com/in/carolinavsqs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:vsqscarolina@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
   ![Snake animation](https://github.com/carolinavsqs/carolinavsqs/blob/output/github-contribution-grid-snake.svg)
- 
 </div>

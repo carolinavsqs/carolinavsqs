@@ -7,13 +7,15 @@
   <img align="center" title="HTML" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="CSS" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" title="Javascript" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" title="Bootstrap" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" title="Wordpress" alt="Wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
 </div>
 
 <p align="center"><br>Trabalho com <b>design gráfico</b> em projetos extracurriculares desde 2016, e a partir de 2017 comecei a trabalhar também com <b>web design</b>, <b>design de interfaces</b> e <b>desenvolvimento front-end</b>.</p>
 
-<p align="center">Atualmente, estou no último ano do curso de Sistemas de Informação. Aprendi Photoshop sozinha para poder fazer gifs e editar imagens para os meus blogs, lá em 2012 (rs). Além de tecnologia, me interesso muito por arte em geral, e estou sempre tentando aprender coisas novas e encontrar inspiração em todos os lugares que eu puder :)</p>
+<p align="center">Sou formada em Sistemas de Informação pela UNIFEI. Aprendi Photoshop sozinha para poder fazer gifs e editar imagens para os meus blogs, lá em 2012 (rs). Além de tecnologia, me interesso muito por arte em geral, e estou sempre tentando aprender coisas novas e encontrar inspiração em todos os lugares que eu puder :)</p>
 
-<p align="center">📖 <b>Estudando:</b> Experiência do Usuário, React, Typescript e Angular</p>
+<p align="center">📖 <b>Estudando:</b> UX, React, Typescript e Angular</p>
 
 <div align="center"><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinavsqs&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
